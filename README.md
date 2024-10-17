@@ -1,14 +1,21 @@
 ## DJIA Data Analysis and Visualisation (1914-1968)
-# Project Overview
-This project focuses on the analysis and visualisation of Dow Jones Industrial Average (DJIA) stock prices from 1914 to 1968. The dataset provides insights into economic conditions, market trends, and significant historical events that impacted stock market performance during this period. The project utilises various statistical techniques and visualisation tools to assess central tendencies, distribution, and long-term price trends.
+This repository contains code and analysis for the Dow Jones Industrial Average (DJIA) dataset. The project focuses on understanding trends, patterns, and the overall performance of the DJIA over time, with an emphasis on the effects of significant market events.
 
-## Dataset Description
-The dataset contains DJIA stock prices over a span of more than 50 years, between 1914 and 1968. Key variables in the dataset include:
+## Project Overview
+This project analyzes the DJIA dataset to explore stock market trends and the impact of key events on the index. The analysis aims to provide insights into:
 
-Date: The trading date.
+- Historical Performance: Examining the historical price movement of the DJIA over time.
+- Line of Best Fit: Using regression analysis to identify trends and predict future performance.
+- Market Volatility: Understanding the fluctuations in the index during significant market events, including crashes and recoveries.
+## Dataset
+The dataset used for this analysis includes historical data for the DJIA, detailing daily closing prices, trading volumes, and other relevant financial metrics. The data spans multiple years, providing a comprehensive view of market trends.
+## Installation
+To run the code in this repository, you'll need the following tools installed:
+## Analysis
+- Historical Trends: The analysis presents the overall trend of DJIA prices, showcasing periods of growth and decline.
+- Line of Best Fit: A line of best fit is plotted to infer correlation and predict future prices, emphasizing the overall upward trend.
+- Market Events: The analysis reviews significant events (e.g., crashes) and their effects on market stability, highlighting the impact on the DJIA's performance.
+- Volatility Assessment: By analyzing price fluctuations, the project examines the underlying factors contributing to market volatility and their implications for investors.
 
-Open/Close: Stock price at the beginning and end of each trading day.
-
-High/Low: The highest and lowest stock prices recorded during the day.
-
-Volume: The number of stocks traded during the day.
+Jupyter Notebook
+Python 3.x
