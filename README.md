@@ -11,6 +11,10 @@ This project analyzes the DJIA dataset to explore stock market trends and the im
 The dataset used for this analysis includes historical data for the DJIA, detailing daily closing prices, trading volumes, and other relevant financial metrics. The data spans multiple years, providing a comprehensive view of market trends.
 ## Installation
 To run the code in this repository, you'll need the following tools installed:
+Juypter Notebook (Anaconda)
+Python 3.x
+
+
 ## Analysis
 - Historical Trends: The analysis presents the overall trend of DJIA prices, showcasing periods of growth and decline.
 - Line of Best Fit: A line of best fit is plotted to infer correlation and predict future prices, emphasizing the overall upward trend.
